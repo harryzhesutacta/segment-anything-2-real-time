@@ -1,3 +1,9 @@
+[tool.poetry]
+name = "sam2"
+version = "0.1.0"
+description = "Segment Anything 2 in real-time"
+authors = ["Your Name <you@example.com>"]
+
 [build-system]
 requires = [
     "setuptools>=61.0",  
